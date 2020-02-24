@@ -1,5 +1,2 @@
-1223
-1233
-
-git git
-git git33
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
